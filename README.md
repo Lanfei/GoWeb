@@ -2,12 +2,12 @@
 
 一个会让你爱上的 Web 整体解决方案。
 
-##代码编写
+##基础框架
 
 - [GoJS](https://github.com/Lanfei/GoJS) - 前端，模块加载器 
 - [GoApp](https://github.com/Lanfei/GoApp) - 移动前端，单页应用引擎（未开始）
 - [GoTpl](https://github.com/Lanfei/GoTpl) - 前端或中间件，模板引擎（待完善）
-- [GoNode](https://github.com/Lanfei/GoNode) - 中间件或服务端（未开始）
+- [GoNode](https://github.com/Lanfei/GoNode) - 中间件或后端，服务器（未开始）
 
 ##模块管理
 - [CMD](http://lanfei.github.io/GoJS/docs/index.html#cmd) - 前端规范
