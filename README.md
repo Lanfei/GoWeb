@@ -23,7 +23,7 @@
 
 ##项目部署
 - [SSH Public Key](http://git-scm.com/book/en/v2/Git-on-the-Server-Generating-Your-SSH-Public-Key) - 服务器公钥
-- [WebHook](https://coding.net/help/about_coding/what_is_web_hook) - 自动化部署
+- [WebHook](https://coding.net/help/about_coding/what_is_web_hook) - 自动化测试、部署
 - [GoNode](https://github.com/Lanfei/GoNode) - 域名绑定
 - [DnsPod](http://www.dnspod.cn/) - 域名解析
 
