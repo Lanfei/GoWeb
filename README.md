@@ -5,10 +5,10 @@
 ##基础框架
 
 - [GoJS](https://github.com/Lanfei/GoJS) - 前端，模块加载器 
-- [Go2d](https://github.com/Lanfei/Go2d) - 前端 HTML5 游戏引擎（进行中）
+- [Go2d](https://github.com/Lanfei/Go2d) - 前端 HTML5 游戏引擎（仅供学习，生产环境请使用 [Egret](http://www.egret.com/)）
 - [GoApp](https://github.com/Lanfei/GoApp) - 移动前端，单页应用引擎（未开始）
 - [GoTpl](https://github.com/Lanfei/GoTpl) - 前端或中间件，模板引擎
-- [GoNode](https://github.com/Lanfei/GoNode) - 中间件或后端，服务器（未开始）
+- [GoNode](https://github.com/Lanfei/GoNode) - 中间件或后端，服务器（暂停中）
 
 ##模块管理
 - [CMD](http://lanfei.github.io/GoJS/docs/index.html#cmd) - 前端规范
